@@ -1,0 +1,13 @@
+{"Station1":{
+    "Enter":"frame260",
+    "Exit":"frame405"
+},
+"Station2":{
+        "Enter":"frame410",
+    "Exit":"frame685"
+},
+"Station3":{
+        "Enter":"frame690",
+    "Exit":"frame835"
+}
+}

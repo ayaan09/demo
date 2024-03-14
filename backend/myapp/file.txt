@@ -1,0 +1,17 @@
+{
+    "transform_data\\frame360_bb_0.jpg": {
+        "indices": [0, 3, 4, 5, 2, 1],
+        "paths": [".\\transform_data\\frame360_bb_0.jpg", ".\\transform_data\\frame615_bb_0.jpg", ".\\transform_data\\frame725_bb_0.jpg", ".\\transform_data\\frame775_bb_0.jpg", ".\\transform_data\\frame490_bb_0.jpg", ".\\transform_data\\frame455_bb_0.jpg"],
+        "distances": [0.31423485, 0.4631797, 0.69429576, 0.855878, 0.9361246, 1.064417]
+    },
+    "transform_data\\frame455_bb_0.jpg": {
+        "indices": [1, 5, 2, 0, 4, 3],
+        "paths": [".\\transform_data\\frame455_bb_0.jpg", ".\\transform_data\\frame775_bb_0.jpg", ".\\transform_data\\frame490_bb_0.jpg", ".\\transform_data\\frame360_bb_0.jpg", ".\\transform_data\\frame725_bb_0.jpg", ".\\transform_data\\frame615_bb_0.jpg"],
+        "distances": [0.66519153, 0.76899326, 0.83321124, 0.87348956, 0.9456445, 0.9467042]
+    },
+    "transform_data\\frame490_bb_0.jpg": {
+        "indices": [2, 0, 3, 4, 5, 1],
+        "paths": [".\\transform_data\\frame490_bb_0.jpg",  ".\\transform_data\\frame725_bb_0.jpg", ".\\transform_data\\frame775_bb_0.jpg", ".\\transform_data\\frame455_bb_0.jpg"],
+        "distances": [0.6021669, 0.7538858, 0.77995896, 0.78379685, 0.932516, 0.96155405]
+    }
+}

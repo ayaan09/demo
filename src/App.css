@@ -1,0 +1,40 @@
+.video-pane {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  width: 100%;
+}
+.header1{
+  background-color: #007bff;
+  width: 100%;
+  height: 60px;
+  font-size: 2.5rem;
+  text-align: center;
+  color: #fff;
+}
+.video-column {
+  flex-basis: 27%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.video-row{
+  flex-basis: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.forh3{
+  text-align: center;
+}
+
+.textt{
+  padding: 50px;
+  text-align: center;
+  font-size: 1.5rem;
+}
